@@ -59,6 +59,7 @@ Build a 2-player web-based game inspired by Tic-Tac-Toe, using **emojis instead 
 ---
 
 ## 📂 Project Structure
+---
 Emoji-Tic-Tac-Toe/
 ├── index.html # HTML markup
 ├── style.css # Styling and layout
