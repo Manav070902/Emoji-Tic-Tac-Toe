@@ -59,7 +59,7 @@ Build a 2-player web-based game inspired by Tic-Tac-Toe, using **emojis instead 
 ---
 
 ## 📂 Project Structure
----
+
 Emoji-Tic-Tac-Toe/
 ├── index.html # HTML markup
 ├── style.css # Styling and layout
@@ -83,6 +83,18 @@ Emoji-Tic-Tac-Toe/
 
 ```bash
 git clone https://github.com/Manav070902/emoji-tic-tac-toe.git
+```
+
+2. Open index.html in your browser to start playing!
+
+---
+
+## 📌 Future Enhancements
+
+- Add sound effects and animations
+- Support for custom emoji sets
+- Timer for each player's turn
+- Scoreboard and leaderboard
 
 
 
