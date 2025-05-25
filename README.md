@@ -64,4 +64,24 @@ Emoji-Tic-Tac-Toe/
 ├── style.css # Styling and layout
 └── script.js # Game logic and emoji management
 
+---
+
+## 🧩 Features
+
+- Emoji category selection
+- Dynamic board updates
+- Vanishing emoji logic
+- Random emoji assignment
+- Play again functionality
+
+---
+
+## 🚀 Getting Started
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/Manav070902/emoji-tic-tac-toe.git
+
+
 
